@@ -1,6 +1,5 @@
 CREATE DATABASE lab1; -- 1 task
 
-\c lab1 postgres 1230208
 
 CREATE TABLE users ( -- 2 task
     id SERIAL,
